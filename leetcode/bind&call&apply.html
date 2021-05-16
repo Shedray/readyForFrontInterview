@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div>
+
+</div>
+
+</body>
+<script>
+    let module = {
+        test:"测试字段",
+        test1:"测试字段2"
+    }
+    function testFunction(var1,var2){
+        console.log(this.test,this.test1)
+        console.log(var1,var2)
+    }
+    //bind,call,apply作用于function对象上，改变function的this指向
+    testFunction()
+    //bind会返回一个新的function 不会被立即调用，所以要在后面加上()
+    testFunction.bind(module,'var1',"var2")()
+    //call 相比于bind来说会立即调用
+    testFunction.call(module,"var1",'var2')
+    //apply相比于call在传入参数时候需要把参数封装成一个Array
+    testFunction.apply(module,["asasas",'var1'])
+</script>
+</html>
