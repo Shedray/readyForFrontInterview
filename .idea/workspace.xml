@@ -20,14 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95cca029-3e1e-4762-be05-d7cf0785f4e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/leetcode/bind&amp;call&amp;apply.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/huiwen.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/longestStr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/twoSum.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/twoSumPlus.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/进制转换.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/isSymmetric.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/waterContainer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/进制转换.html" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/进制转换.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620963803347</updated>
-      <workItem from="1620963804526" duration="10205000" />
+      <workItem from="1620963804526" duration="11516000" />
+      <workItem from="1621218497036" duration="5011000" />
     </task>
     <servers />
   </component>
@@ -96,5 +94,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
